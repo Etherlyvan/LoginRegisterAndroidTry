@@ -1,1 +1,1 @@
-My First Trying JetPack Compose
+My First time Trying JetPack Compose
